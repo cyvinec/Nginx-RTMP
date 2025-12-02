@@ -1,2 +1,2 @@
-# Nginx-PHP-RTMP
+# Nginx-RTMP
 Docker container of Nginx-PHP-RTMP
